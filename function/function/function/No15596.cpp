@@ -1,9 +1,8 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #include<iostream>
 #include<vector>
 
-
-long long sum(std::vector<int>& a)
+/*long long sum(std::vector<int>& a)
 {
 	int num;
 	int n;
@@ -26,6 +25,7 @@ long long sum(std::vector<int>& a)
 	return ans;
 	
 }
+*/
 
 /*
 #include <vector>
